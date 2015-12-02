@@ -2,7 +2,7 @@
 Adobe After Effects expression
 Parses a date in the format "November 21," and determnines the appropriate
 ordinal suffix (i.e., November 21st).  In this case the date is on one layer,
-and the suffix is on its own layer because I didn't want it iheriting the
+and the suffix is on its own layer because I didn't want it inheriting the
 typesetting from date, but rather have its own typesetting.  
 */
 
