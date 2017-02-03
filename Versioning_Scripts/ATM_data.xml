@@ -1,0 +1,111 @@
+<ATM_data>
+  <title>Movie Titles</title>
+  <title>Gran Torino</title>
+  <title>Apollo 13</title>
+
+  <classifier>Movie Classifier</classifier>
+  <classifier>Two Chances to Watch</classifier>
+  <classifier>All Day</classifier>
+  <classifier>Marathon</classifier>
+  <classifier>Back to Back</classifier>
+  <classifier>Thanksgiving Marathon</classifier>
+  <classifier>New Year's Eve Marathon</classifier>
+  <classifier>New Year's Day Marathon</classifier>
+
+  <classifier2>Tune-in Classifier</classifier2>
+  <classifier2>Next</classifier2>
+  <classifier2>All Day</classifier2>
+  <classifier2>Marathon</classifier2>
+  <classifier2>Back to Back</classifier2>
+  <classifier2>Thanksgiving Marathon</classifier2>
+  <classifier2>New Year's Eve Marathon</classifier2>
+  <classifier2>New Year's Day Marathon</classifier2>
+
+  <tunein>
+    <day1>Day One</day1>
+    <day1>Next</day1>
+    <day1>Monday</day1>
+    <day1>Tuesday</day1>
+    <day1>Wednesday</day1>
+    <day1>Thursday</day1>
+    <day1>Friday</day1>
+    <day1>Saturday</day1>
+    <day1>Sunday</day1>
+    <day1>Today</day1>
+    <day1>Tonight</day1>
+    <day1>Tomorrow</day1>
+    <day1>Keep Watching</day1>
+    <day1>All Day</day1>
+
+    <day2>Day Two</day2>
+    <day2>Monday</day2>
+    <day2>Tuesday</day2>
+    <day2>Wednesday</day2>
+    <day2>Thursday</day2>
+    <day2>Friday</day2>
+    <day2>Saturday</day2>
+    <day2>Sunday</day2>
+    <day2>Tonight</day2>
+    <day2>Tomorrow</day2>
+
+    <day3>Day Three</day3>
+    <day3>Monday</day3>
+    <day3>Tuesday</day3>
+    <day3>Wednesday</day3>
+    <day3>Thursday</day3>
+    <day3>Friday</day3>
+    <day3>Saturday</day3>
+    <day3>Sunday</day3>
+    <day3>Tomorrow</day3>
+
+    <month1>Month One</month1>
+    <month1>January</month1>
+    <month1>February</month1>
+    <month1>March</month1>
+    <month1>April</month1>
+    <month1>May</month1>
+    <month1>June</month1>
+    <month1>July</month1>
+    <month1>August</month1>
+    <month1>September</month1>
+    <month1>October</month1>
+    <month1>November</month1>
+    <month1>December</month1>
+
+    <month2>Month Two</month2>
+    <month2>January</month2>
+    <month2>February</month2>
+    <month2>March</month2>
+    <month2>April</month2>
+    <month2>May</month2>
+    <month2>June</month2>
+    <month2>July</month2>
+    <month2>August</month2>
+    <month2>September</month2>
+    <month2>October</month2>
+    <month2>November</month2>
+    <month2>December</month2>
+
+    <time>Select Time</time>
+    <time>1:00</time>
+    <time>2:00</time>
+    <time>3:00</time>
+    <time>4:00</time>
+    <time>5:00</time>
+    <time>6:00</time>
+    <time>7:00</time>
+    <time>8:00</time>
+    <time>9:00</time>
+    <time>10:00</time>
+    <time>11:00</time>
+    <time>12:00</time>
+  </tunein>
+  <talent>Select Talent</talent>
+  <talent>Kevin Bacon</talent>
+  <talent>Tom Hanks</talent>
+  <talent>Ed Harris</talent>
+
+  <talClass>Select Classifier</talClass>
+  <talClass>Academy Award Winner</talClass>
+  <talClass>Academy Award Nominee</talClass>
+</ATM_data>

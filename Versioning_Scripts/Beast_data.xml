@@ -1,0 +1,72 @@
+<Beast_data>
+  <show>
+    <abbrev>BBD</abbrev>
+    <name>BLUE\nBLOODS</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>BRN</abbrev>
+    <name>BURN\nNOTICE</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>CRM</abbrev>
+    <name>CRIMINAL\nMINDS</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>CSB</abbrev>
+    <name>CRIMINAL\nMINDS</name>
+    <subtitle>SUSPECT BEHAVIOR</subtitle>
+  </show>
+  <show>
+    <abbrev>GHW</abbrev>
+    <name>GHOST\nWHISPERER</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>LWO</abbrev>
+    <name>LAW &\nORDER</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>LAO</abbrev>
+    <name>LAW &\nORDER</name>
+    <subtitle>CRIMINAL INTENT</subtitle>
+  </show>
+  <show>
+    <abbrev>SVU</abbrev>
+    <name>LAW &\nORDER</name>
+    <subtitle>SVU</subtitle>
+  </show>
+  <show>
+    <abbrev>LEV</abbrev>
+    <name>LEVERAGE</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>LST</abbrev>
+    <name>THE\nLISTENER</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>PSY</abbrev>
+    <name>PSYCH</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>RBL</abbrev>
+    <name>ROOKIE\nBLUE</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>SVH</abbrev>
+    <name>SAVING\nHOPE</name>
+    <subtitle></subtitle>
+  </show>
+  <show>
+    <abbrev>WHC</abbrev>
+    <name>WHITE\nCOLLAR</name>
+    <subtitle></subtitle>
+  </show>
+</Beast_data>
