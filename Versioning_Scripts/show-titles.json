@@ -1,0 +1,74 @@
+{
+  "BBD": {
+    "title": "BLUE\nBLOODS",
+    "subtitle": ""
+  },
+  "BRN": {
+    "title": "BURN\nNOTICE",
+    "subtitle": ""
+  },
+  "CRM": {
+    "title": "CRIMINAL\nMINDS",
+    "subtitle": ""
+  },
+  "CSB": {
+    "title": "CRIMINAL\nMINDS",
+    "subtitle": "SUSPECT BEHAVIOR"
+  },
+  "CSI": {
+    "title": "CSI",
+    "subtitle": "CRIME SCENE\nINVESTIGATION"
+  },
+  "DEL": {
+    "title": "THE\nDETAIL",
+    "subtitle": ""
+  },
+  "GHW": {
+    "title": "GHOST\nWHISPERER",
+    "subtitle": ""
+  },
+  "LWO": {
+    "title": "LAW &\nORDER",
+    "subtitle": ""
+  },
+  "LAO": {
+    "title": "LAW &\nORDER",
+    "subtitle": "CRIMINAL INTENT"
+  },
+  "SVU": {
+    "title": "LAW &\nORDER",
+    "subtitle": "SVU"
+  },
+  "LEV": {
+    "title": "LEVERAGE",
+    "subtitle": ""
+  },
+  "LST": {
+    "title": "THE\nLISTENER",
+    "subtitle": ""
+  },
+  "NLA": {
+    "title": "NCIS",
+    "subtitle": "LOS ANGELES"
+  },
+  "PVE": {
+    "title": "PRIVATE\nEYES",
+    "subtitle": ""
+  },
+  "PSY": {
+    "title": "PSYCH",
+    "subtitle": ""
+  },
+  "RBL": {
+    "title": "ROOKIE\nBLUE",
+    "subtitle": ""
+  },
+  "SVH": {
+    "title": "SAVING\nHOPE",
+    "subtitle": ""
+  },
+  "WHC": {
+    "title": "WHITE\nCOLLAR",
+    "subtitle": ""
+  }
+}
